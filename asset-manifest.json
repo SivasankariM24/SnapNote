@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SnapNote/static/css/main.4d3f00d4.css",
+    "main.js": "/SnapNote/static/js/main.60e60fc0.js",
+    "static/js/453.8ab44547.chunk.js": "/SnapNote/static/js/453.8ab44547.chunk.js",
+    "index.html": "/SnapNote/index.html",
+    "main.4d3f00d4.css.map": "/SnapNote/static/css/main.4d3f00d4.css.map",
+    "main.60e60fc0.js.map": "/SnapNote/static/js/main.60e60fc0.js.map",
+    "453.8ab44547.chunk.js.map": "/SnapNote/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d3f00d4.css",
+    "static/js/main.60e60fc0.js"
+  ]
+}
